@@ -9,5 +9,5 @@ Find the document [here](./pdf/zees-ml-toolkit.pdf)
 - [x] Introduction
 - [ ] Solution Design
 - [ ] Machine Learning
-- [-] Deep Learning
+- [ ] Deep Learning (WIP)
 - [ ] Solution Deployment

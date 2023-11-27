@@ -47,8 +47,8 @@ classoption:
 #- twocolumn
 #topleveldivision: part
 citeproc: true
-bibliography: zees-ml-hiring-notes.bib
-csl: ieee.csl
+bibliography: src/zees-ml-hiring-notes.bib
+csl: src/ieee.csl
 link-citations: true
 colorlinks: true
 ---
